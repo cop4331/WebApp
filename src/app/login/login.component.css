@@ -1,0 +1,10 @@
+mat-card {
+  width: 25%;
+  background: dimgrey;
+  text-align: center;
+  justify-content: center;
+}
+
+p {
+  color: darkblue;
+}
